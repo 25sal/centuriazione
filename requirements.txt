@@ -1,0 +1,6 @@
+haversine==2.5.1
+numpy==1.17.4
+opencv_python==4.5.3.56
+gdal==3.3.2
+osgeo==0.0.1
+Pillow==8.3.2
