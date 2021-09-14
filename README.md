@@ -1,5 +1,5 @@
 # centuriazione
-##downloader.py
+## downloader.py
 The current example downloads a tiff image, 1500 X 1500 px and 1.5km X 1.5 km.
 top_left and bottom_right coordinates and zoom are chosen accordingly.
 
